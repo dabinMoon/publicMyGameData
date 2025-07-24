@@ -4,31 +4,31 @@
             "entityType": 0,
             "healthMin": 1,
             "healthMax": 1,
-            "spawnCount": 1
+            "spawnCount": 60
         },
         {
             "entityType": 1,
             "healthMin": 1,
             "healthMax": 1,
-            "spawnCount": 1
+            "spawnCount": 0
         },
         {
             "entityType": 2,
             "healthMin": 2,
             "healthMax": 3,
-            "spawnCount": 1
+            "spawnCount": 0
         },
         {
             "entityType": 3,
             "healthMin": 1,
             "healthMax": 1,
-            "spawnCount": 1
+            "spawnCount": 0
         },
         {
             "entityType": 4,
             "healthMin": 10,
             "healthMax": 20,
-            "spawnCount": 1
+            "spawnCount": 0
         }
     ]
 }
