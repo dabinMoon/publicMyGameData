@@ -4,7 +4,7 @@
             "entityType": 0,
             "healthMin": 1,
             "healthMax": 1,
-            "spawnCount": 120
+            "spawnCount": 30
         },
         {
             "entityType": 1,
